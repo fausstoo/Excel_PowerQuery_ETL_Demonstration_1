@@ -1,5 +1,5 @@
 # Excel_PowerQuery_MiniProject
-A brief demonstration of Import-Transform-Load data techniques from Excel Sheets, Tables, and other files like .txt to a Pivot Table Report and Power BI Desktop
+A brief demonstration of Import-Transform-Load data techniques from Excel Sheets, Tables, and other files like .txt to a Pivot Table Cash Report and Power BI Desktop
 1) Clean and Transform Data in Excel
 2) Look at Power Query User Interface & M Code
 3) Load to: Excel Sheet, Data Model or as Connection
